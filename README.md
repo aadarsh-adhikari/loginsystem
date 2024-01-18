@@ -1,2 +1,2 @@
 # loginsystem
-php login system
+php login system which includes signup, login, and logout features :>
